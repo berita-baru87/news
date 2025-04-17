@@ -1,0 +1,4 @@
+User-Agent: *
+Allow: /index.html
+
+Sitemap:https://berita-baru87.github.io/news/sitemap.xml
